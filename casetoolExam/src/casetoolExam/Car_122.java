@@ -6,6 +6,10 @@ public class Car_122 {
 	{
 		this.speeds=speed;
 	}
+	int get_speed()
+	{
+		return speeds;
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
